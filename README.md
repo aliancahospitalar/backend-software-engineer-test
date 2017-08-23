@@ -9,7 +9,7 @@ tecnologia@aliancahospitalar.com
 
 Vamos desenvolver uma aplicação que provê estatísticas sobre avaliações de filmes. Para isso teremos acesso a uma base-de-dados que chamaremos de Transacional. Essa base é uma base SQLite tem a seguinte estrutura:
 
-
+![](https://raw.githubusercontent.com/aliancahospitalar/backend-software-engineer-test/master/movies.png "Logo Title Text 1")
 
 ## Parte 1 - Obtendo os dados
 
